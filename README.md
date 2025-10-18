@@ -18,4 +18,4 @@ This data is synced across your devices only if you are logged into your browser
 We **do not** collect, store, sell, or transmit any of your personal data to any third-party servers. All data remains within your control, stored locally or within your browser's private sync area.
 
 ---
-Email hỗ trợ (Support email): [Nhập email của bạn vào đây]
+Support email: nguyentankhoa23082002@gmail.com
